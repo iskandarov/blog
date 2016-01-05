@@ -14,14 +14,14 @@ paginate: 5
 navigation:
  - title: Əsas\Blog
    url: /index.html
- - title: About
+ - title: Haqqında
    url: /about
- - title: Contact
+ - title: Əlaqə
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
+   github: iskandarov
+   twitter: iskandarovorg
    facebook: mirzaiskandarov
    email: mirzaiskandarov@gmail.com
 
