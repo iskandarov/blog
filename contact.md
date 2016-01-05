@@ -6,8 +6,7 @@ title: Contact Long Haul
 <div id="contact">
   <h1 class="pageTitle">Əlaqə</h1>
   <div class="contactContent">
-    <p class="intro">Əgər təklif və iradlarınız varsa, buyurun. <br />
-    Ən kiçik səhvlər belə böyük və ağlasığmaz nəticələrə gətiriv çıxara bilər. </p>
+    <p class="intro">Əgər təklif və iradlarınız varsa, buyurun. </p>
   </div>
   <form action="http://formspree.io/mirza.iskandarov@gmail.com" method="POST">
     <label for="name">Name</label>    
