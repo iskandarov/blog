@@ -10,7 +10,7 @@ title: About Long Haul
 	Bu bloqda müxtəlif mövzulu - əsasən, kiçik proqramların araşdırılması və pessimistik, amma dəyərli məqalələr paylaşılacaq. <br />
 	Unutmaq lazım deyil ki, düzgün pessimizm çox böyük kəşflərə və düzgün yaradıcılığa apara bilər. <br />
 	Biz gülərək, gənclərə vətənpərvərlikdən və dindən danışmaqla, onları həqiqi potensiallarından uzaqlaşdırırıq və təbii ki, bu asandır. Amma narahat edici suallara cavab verməyi "axmaqlıq" sayırıq.</p>
-	<img src="{{ 'https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-0/s480x480/11953122_1680586018843655_642417075566111913_n.png?oh=56b5ac98da538192d1ad6a179092ad66&oe=56FF606A&__gda__=1464346744_7297e3e95a617959742493d1fd216864' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/about.png' | prepend: site.baseurl }}" alt=""> 
 	<h2>Əsas</h2>
 	<ul>
 		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
