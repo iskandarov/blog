@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Bloq haqqında - Mirzə İskəndərov
 ---
 
 <div class="post">
