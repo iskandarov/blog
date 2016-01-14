@@ -8,7 +8,7 @@ comments: True
 <p class="intro"><span class="dropcap">X</span>oş Gördük! Sayt dəyişib və indi əvvəlki kimi çox funksiyalı (hər kəsə məlumdur ki, onlardan çoxu mənim üçün istifadəsiz qalırdı) Wordpress CMS-i yox, Jekyll-dir. Bu Statik Səhifələrin Generatorudur. Bunun üzərində bloq qurmaq ilk günlər çətin olsa da, teoriyanı anlayandan sonra çox asandır. Bundan sonra Verilənlər Bazasını unutmalı olacaqsınız. Və Heç bir Vizual Səhifə...
 
 <video width="320" height="240" controls>
-  <source src="http://ducit.net/video/neyroplastiklik.mp4" type="video/mp4">
+  <source src="http://iskandarov.github.com/blog/video/neyroplastiklik.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
