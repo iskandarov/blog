@@ -7,10 +7,7 @@ comments: True
 
 <p class="intro"><span class="dropcap">X</span>oş Gördük! Sayt dəyişib və indi əvvəlki kimi çox funksiyalı (hər kəsə məlumdur ki, onlardan çoxu mənim üçün istifadəsiz qalırdı) Wordpress CMS-i yox, Jekyll-dir. Bu Statik Səhifələrin Generatorudur. Bunun üzərində bloq qurmaq ilk günlər çətin olsa da, teoriyanı anlayandan sonra çox asandır. Bundan sonra Verilənlər Bazasını unutmalı olacaqsınız. Və Heç bir Vizual Səhifə...
 
-<video width="320" height="240" controls>
-  <source src="http://iskandarov.github.com/blog/video/neyroplastiklik.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 
 Bir sözlə, daha ətraflı məlumat üçün Technet-də olan məqaləmə baxın: <a href=" http://www.technet.az/2016/01/09/jekyll-blog-on-github-pages">Jekyll+Github Pages — Bloq qurulması üzrə dərslik</a>  
 
