@@ -5,9 +5,9 @@
 <urlset xmlns="http://sitemaps.org/schemap/sitemap/0.9">
 
 	{% for post in site.posts %}
-			{% if page.layout %}
-		{% include sitemap-entry.xml entry=post %}
-			{% endif %}	
+		{% if post.layout %}
+			{% include sitemap-entry.xml entry=post %}
+		{% endif %}	
 	{% endfor %}
 
 	{% for page in site.pages %}
