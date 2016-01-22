@@ -3,7 +3,7 @@
 	{% if include.entry.chanfreq %}
 		<changefreq>{{include.entry.changefreq}}</changefreq>
 	{% endif %}
-	{% if include.entry.chanfreq %}
+	{% if include.entry.priority %}
 		<priority>{{include.entry.priority}}</priority>
 	{% endif %}
 	
