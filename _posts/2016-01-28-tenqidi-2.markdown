@@ -6,7 +6,7 @@ comments: True
 ---
 
 <p class="intro"><span class="dropcap">X</span>oş Gördük, Əziz Dostlar!<br>	
-Bu gün sizə Tənqidi Düşüncə ilə bağlı hazırlanmış ikinci hissəni təqdim edirəm. Birinci hissəni isə Siz <a href="https://www.youtube.com/watch?v=UT9hqOja5VQ">Youtube-dan baxa bilərsiniz</a>.<br>	
+Bu gün sizə Tənqidi Düşüncə ilə bağlı hazırlanmış ikinci hissəni təqdim edirəm. Birinci hissəni isə Siz <a href="https://www.youtube.com/watch?v=UT9hqOja5VQ" target="_blank">Youtube-dan baxa bilərsiniz</a>.<br>	
 Bu məqalədə, Tənqidi düşüncəni formalaşdıran bir neçə üsul izah olunacaq:<br>	
 Psevdo-elmi marketing maneralarına uymamaq üçün sizə bəzi hallarda məktəb termodinamikası və şəxsi, eyni zamanda kiçik elmi araşdırma belə kömək ola bilər. Amma bəzən beynimizin daha tez inandığı hallarda baş verir. Buna misal olaraq məşhur insanların hekayələrini göstərmək olar. Reklam agentliklərinin yaxşı bildiyi və istifadə etdiyi bu üsul əlavə olaraq sadə insanların cəlbi ilə də işləyir. Bizim beynimizdə belə hekayalərə inanmaqda bir növ aludəçilik var. Onlar bizim bunu düzgün sayacağımıza öyrəşdiyimizdən, hətta formalaşmağımızdan istifadə edərək bir şeyi almaqda stimul yaradırlar.<br>	
 Tənqidi düşüncəni sadəcə proses kimi qəbul edə bilərsiniz. Bəs, biz Tənqidi Düşüncə haqqında, proses haqqında danışarkən nəyi nəzərdə tuturuq?<br>	
