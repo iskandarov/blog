@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resenziya: "Damda dəli var" - Əziz Nesin"
+title:  "Resenziya: Damda dəli var - Əziz Nesin"
 date:   2016-03-05
 comments: True
 ---
