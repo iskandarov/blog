@@ -5,28 +5,30 @@ date:   2016-04-05
 comments: True
 ---
 
-Salam, Əziz oxucular!
-Son bir neçə gündə, elmi-populyarizasiya ilə ciddidən məşğul olmaq qərarına gəldim. Və Bunun üçün əvvəl düzgün və bir-başa mənbədən bilik alan azərbaycanlı elm adamlarını və həvəskarları axtarmağa başladım. Google-da axtarış sorğusunu yazmazdan əvvəl, tanış insanlara zəng edib/əlaqə yaradıb onların tanıdıqları (Fiziki) Antropoloq, Antropogenez üzrə peşəkarların olub-olmamasını soruşdum. Nəticə olaraq heç bir peşəkarın ismini əldə edə bilmədim.</br>
-Yalnız bu sahə ilə maraqlanan insanlar. Əslində bu mənim layihəm üçün uyğun ola bilərdi, sadəcə peşəkar insanın mənbə kimi müraciət etdiyi baza böyük olduğundan axtarış üçün açar sözü “peşəkar” kimi qalmaqda idi.</br>
-Antropoloq tanışların (orta) yoxluğu, sonda həvəskar insanlara müraciətimlə yekunlaşdı. 6-ya yaxın şəxslə əlaqə saxladım, nəticədə isə, mənfi cavab aldım. Bu məni istədiyimdən çəkindirmədi, təbii ki. Hətta layihə üçün saytın quruculuq işlərinə başladım.</br>
+<p>Salam, Əziz oxucular!
+<p>Son bir neçə gündə, elmi-populyarizasiya ilə ciddidən məşğul olmaq qərarına gəldim. Və Bunun üçün əvvəl düzgün və bir-başa mənbədən bilik alan azərbaycanlı elm adamlarını və həvəskarları axtarmağa başladım. Google-da axtarış sorğusunu yazmazdan əvvəl, tanış insanlara zəng edib/əlaqə yaradıb onların tanıdıqları (Fiziki) Antropoloq, Antropogenez üzrə peşəkarların olub-olmamasını soruşdum.</p>
+<p>Nəticə olaraq heç bir peşəkarın ismini əldə edə bilmədim.</p>
+<p>Yalnız bu sahə ilə maraqlanan insanlar. Əslində bu mənim layihəm üçün uyğun ola bilərdi, sadəcə peşəkar insanın mənbə kimi müraciət etdiyi baza böyük olduğundan axtarış üçün açar sözü “peşəkar” kimi qalmaqda idi.</p>
+<p>Antropoloq tanışların (orta) yoxluğu, sonda həvəskar insanlara müraciətimlə yekunlaşdı. 6-ya yaxın şəxslə əlaqə saxladım, nəticədə isə, mənfi cavab aldım. Bu məni istədiyimdən çəkindirmədi, təbii ki. Hətta layihə üçün saytın quruculuq işlərinə başladım.</p>
 ***
-Google-a axtarış sorğusu. İlk çıxan məqaləni analiz etdim, aldığım nəticə bundan əvvəl oxuduqlarımı təkrarlayırdı. Bir az eqoizmə söykənib fikirləşdim, “dəmək, etibarlı mənbədən götürülüb”. Müəllifin adını götürərək FB-da axtarış verdim və onun antropoloq olduğunu, açıq şəkildə, hesabından gördüm. Sonda dostluq göndərdim, ismarıc yazaraq layihəmlə bağlı məlumatlandırdım.</br>
-Bir-az anlaşılmamazlıqdan sonra, görüşməyi təklif etdim.</br>
+<p>Google-a axtarış sorğusu. İlk çıxan məqaləni analiz etdim, aldığım nəticə bundan əvvəl oxuduqlarımı təkrarlayırdı. Bir az eqoizmə söykənib fikirləşdim, “dəmək, etibarlı mənbədən götürülüb”. Müəllifin adını götürərək FB-da axtarış verdim və onun antropoloq olduğunu, açıq şəkildə, hesabından gördüm. Sonda dostluq göndərdim, ismarıc yazaraq layihəmlə bağlı məlumatlandırdım.</br>
+Bir-az anlaşılmamazlıqdan sonra, görüşməyi təklif etdim.</p>
 ***
-Görüşdük. Görüşü ümumi olaraq belə təsəvvür etmək olardı: üç nəfər kitablar ətrafında oturaraq, elmi biliklərini bir-birlərinə söyləyir və düzgün olub-olmadığını araşdırır. Amma xatırlatmaq istərdim ki, elmi – empirik və nəzəri bilik daha çox, Zamin bəydə idi. Hər halda danışdığımız mövzuda ixtisaslı idi.</br>
-Bu yazımın əsas məqsədi odur ki, bilik və baxış tərzləri çox müxtəlif olan insanlar, elə öz bilik və baxış tərzlərinə görə yeni dosta və ya ustada (kumir yox!) rast gəlmələri çox zaman mümkün olmur. Mən bir vaxtlar bunun lazımsız olduğunu düşünürdüm, introvertlik mənim üçün xoşbəxtlik idi. Sözün açığı indi də belədir, lakin həddində.</br>
-(Yeni) tanış insanlarla bir şeyi müzakirə etmək, aydınlaşdırmaq gözəldir. Burada verə bilmədiyin, verə bilməyəcəyin, anlamadığın sualları verirsən, cavabı isə çox asanlıqla tapırsan. – Əsas sualı düzgün formalaşdırmaqdır.</br>
-Dostlardan əlavə, peşəkar elm adamları öz sahələrindən danışarkən, əslən öz işlərini yerinə yetirirlər. Yox, onlar buna məcbur deyillər, lakin aldıqları dərəcələr bunun üçündür, məncə. Öyrənilmiş informasiya öyrədilməzsə, və ya işlədilməzsə, öz gücünü itirir. 
-Son vaxtlarda aparılmış araşdırma buna misal ola bilər. Bizim hər hansı iş üçün öyrəndiyimiz və gələcəkdə lazımlı düşündüyümüz informasiya daha çox yadda qalır.</br>
-–	Debatlarda, müzakirələrdə, elmi araşdırmalarda istifadə edilən məlumat, elə eyni ilə, belə məlumatdır.</br>
-Bəs, ayrılıqda elmin populyarizasiyası üçün məni həvəsləndirən nədir?:</br>
-–	Biliyin gələcəyə ötürülməsi;</br>
-–	Daha çox düşünən insanlar;</br>
-–	İşıqlı gələcək üçün, elmin avtoritetinin qaldırılması.</br>
+<p>Görüşdük. Görüşü ümumi olaraq belə təsəvvür etmək olardı: üç nəfər kitablar ətrafında oturaraq, elmi biliklərini bir-birlərinə söyləyir və düzgün olub-olmadığını araşdırır. Amma xatırlatmaq istərdim ki, elmi – empirik və nəzəri bilik daha çox, Zamin bəydə idi. Hər halda danışdığımız mövzuda ixtisaslı idi.</p>
+<p>Bu yazımın əsas məqsədi odur ki, bilik və baxış tərzləri çox müxtəlif olan insanlar, elə öz bilik və baxış tərzlərinə görə yeni dosta və ya ustada (kumir yox!) rast gəlmələri çox zaman mümkün olmur. Mən bir vaxtlar bunun lazımsız olduğunu düşünürdüm, introvertlik mənim üçün xoşbəxtlik idi. Sözün açığı indi də belədir, lakin həddində.</p>
+<p>(Yeni) tanış insanlarla bir şeyi müzakirə etmək, aydınlaşdırmaq gözəldir. Burada verə bilmədiyin, verə bilməyəcəyin, anlamadığın sualları verirsən, cavabı isə çox asanlıqla tapırsan. – Əsas sualı düzgün formalaşdırmaqdır.</p>
+<p>Dostlardan əlavə, peşəkar elm adamları öz sahələrindən danışarkən, əslən öz işlərini yerinə yetirirlər. Yox, onlar buna məcbur deyillər, lakin aldıqları dərəcələr bunun üçündür, məncə. Öyrənilmiş informasiya öyrədilməzsə, və ya işlədilməzsə, öz gücünü itirir. 
+<p>Son vaxtlarda aparılmış araşdırma buna misal ola bilər. Bizim hər hansı iş üçün öyrəndiyimiz və gələcəkdə lazımlı düşündüyümüz <p>informasiya daha çox yadda qalır.</p>
+<p>–	Debatlarda, müzakirələrdə, elmi araşdırmalarda istifadə edilən məlumat, elə eyni ilə, belə məlumatdır.</p>
+<p>Bəs, ayrılıqda elmin populyarizasiyası üçün məni həvəsləndirən nədir?:</p>
+<p>–	Biliyin gələcəyə ötürülməsi;</p>
+<p>–	Daha çox düşünən insanlar;</p>
+<p>–	İşıqlı gələcək üçün, elmin avtoritetinin qaldırılması.</p>
 
-Bu yazı, düşünürəm ki, mövzunu düzgün izah edə bildi. Uğurlar!</br>
-– Və sonda belə bir qısa hekayə:</br>
-Yoldaşımın internetdə müxtəlif, qeyri-adi saç rənglərinə baxdığını görərək bunun nə üçün olduğunu soruşdum. O, isə:</br>
-–	Heç başımla nə isə eləmək istəyirəm, – dedi.</br>
-Mənə bu maraqlı gəldi, və düşünərək dedim:</br>
-–	Onda ən sadəsi, kitab oxu.</br>
+<p>Bu yazı, düşünürəm ki, mövzunu düzgün izah edə bildi. Uğurlar!</p>
+<p>– Və sonda belə bir qısa hekayə:</br>
+<p>Yoldaşımın internetdə müxtəlif, qeyri-adi saç rənglərinə baxdığını görərək bunun nə üçün olduğunu soruşdum. O, isə:</br>
+<p>–	Heç başımla nə isə eləmək istəyirəm, – dedi.</p>
+<p>Mənə bu maraqlı gəldi, və düşünərək dedim:</p>
+<p>–	Onda ən sadəsi, kitab oxu.</p>
+
