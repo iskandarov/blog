@@ -2,7 +2,7 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://iskandarov.github.io/blog
-baseurl: "/blog/"
+baseurl: http://iskandarov.github.io/blog/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -13,11 +13,11 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: http://iskandarov.github.io/blog/index.html
  - title: About
-   url: /about
+   url: http://iskandarov.github.io/blog/about
  - title: Contact
-   url: /contact
+   url: http://iskandarov.github.io/blog/contact
 
 social:
    github: iskandarov
