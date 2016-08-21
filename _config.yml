@@ -2,7 +2,7 @@ title: Mirza Iskandarov
 description: Programming|Bloging|Science|Books
 
 url: http://iskandarov.github.io/blog/
-# baseurl: "http://ducit.net"
+baseurl: "http://iskandarov.github.io/blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
