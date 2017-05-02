@@ -1,8 +1,8 @@
 title: Mirza Iskandarov
 description: Programming|Bloging|Science|Books
 
-url: http://iskandarov.github.io/blog/
-baseurl: "http://iskandarov.github.io/blog"
+url: http://iskandarov.org
+baseurl: "http://iskandarov.org"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
