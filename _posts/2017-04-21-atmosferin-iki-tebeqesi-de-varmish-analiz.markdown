@@ -6,7 +6,7 @@ comments: True
 ---
 
 <p class="intro"><span class="dropcap">Y</span>er kürəsi atmosferinin əsas dörd təbəqəsi var: Troposfer, Stratosfer, Mezosfer, Termosfer. Bu təbəqələr planetimizi zərərli radiasiya şüasından qoruyur.  Lakin orta məktəb dərsliklərində bu siyahıya Ekzosfer də əlavə ediblər. Bu isə müəyyən qədər elmi faktlara əks gedir. Çünki beşinci “təbəqə” Termosfer təbəqəsinə aiddir, digər bir alt-təbəqə İonosfer də buraya daxildir. Beləliklə, bir çox qrup insanlar ümumi hesabla 7 təbəqə olduğunu iddia edirlər. Onlar üçün 7-ci təbəqə - Maqnitosfer (alt) təbəqəsidir.
-<img width="100%" src="/../upload/images/news/2017/april/07/big/4e972323b965dbbeb8b4a5e421d7eaf3.png" alt="" title="" class=" news-inner-image">
+<img width="100%" src="http://kulis.lent.az/upload/images/news/2017/april/07/small/4e972323b965dbbeb8b4a5e421d7eaf3.png" alt="" title="" class=" news-inner-image">
 <p>Çox qəribədir ki, bəzi saytlarda beş, altı və yeddinci təbəqələrin adları müxtəlif yazılır: ozonosfer – ionosfer – ekzosfer; manyetosfer – ionosfer – ekzosfer; ekzosfer – ionosfer – maqnitosfer və s.</p>
 <p>Gördüyünüz bu siyahıda bəzən adlar uydurulmuş olur, bəzən səhv yazılır, bəzən isə sadəcə alt-təbəqə olur. Əgər alt-təbəqələri tam təbəqə hesab etsək nəticədə, 7 yox 9 təbəqə alınır:</p>
 <ol>
